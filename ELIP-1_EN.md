@@ -24,7 +24,7 @@ Elastos is committed to building a Smart Web Powered by Blockchain. Its infrastr
 - Blockchain
 - Wallet
 - Network Service
-- Storeage Service
+- Storage Service
 - Application and Runtime
 
 Therefore, the technical scope of ELIP can be one or more of these five categories. If proposals for other technical fields need to be proposed, this proposal should be updated and expanded to include the technical fields involved in Elastos infrastructure.
